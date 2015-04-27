@@ -1,11 +1,14 @@
 
 public class SimpleProgram {
+	public SimpleProgram(){
+		
+	}
 
-	public static int multiply(int i, int j) {
+	public int multiply(int i, int j) {
 		return i*j;
 	}
 
-	public static int sum(int i, int j) {
+	public int sum(int i, int j) {
 		return i+j;
 	}
 }
